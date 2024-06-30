@@ -1,0 +1,1 @@
+This project is about basics of html language. It includes lists, links, images, and overall basic syntax that is common for that language.
